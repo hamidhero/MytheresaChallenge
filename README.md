@@ -22,7 +22,7 @@ for example:
 
 and project is up on port 3030 of your machine. You can access its endpoint from browser or postman like this:
 
-[http://127.0.0.1:3030?category=boots&priceLessThan=80000](http://127.0.0.1:3030?category=boots&priceLessThan=80000)
+[http://127.0.0.1:3030/api/products?category=boots&priceLessThan=80000](http://127.0.0.1:3030?category=boots&priceLessThan=80000)
 
 
 ## How to Test
